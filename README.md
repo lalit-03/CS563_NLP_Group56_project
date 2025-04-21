@@ -1,6 +1,11 @@
 # Empathetic Chatbot with Conversation Summarization
 
-This repository contains code and resources for an empathetic chatbot system that maintains context in conversations through advanced summarization capabilities. The project was developed by Group 56.
+This repository contains code and resources for an empathetic chatbot system that maintains context in conversations through advanced summarization capabilities. 
+
+The project was developed by Group 56:
+- Devendra Pratap Singh(2101AI13)
+- Lalit Chandra Routhu(2101AI17)
+- Tejas Budhwal(2101AI42)
 
 ## Project Overview
 
